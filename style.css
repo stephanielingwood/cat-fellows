@@ -1,0 +1,34 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-color: #FCF1E3;
+  color: #704009;
+}
+
+header {
+  background-color: #408EB3;
+}
+
+nav {
+ background-color: #FFCC8F;
+}
+
+main {
+ background-color: #FCF1E3;
+}
+
+article img {
+  width: 100%;
+  max-width: 400px;
+}
+
+.bigpic {
+  width: 100%;
+  max-width: 800px;
+}
+
+footer {
+ background-color: #408EB3;
+}
